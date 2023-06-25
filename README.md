@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I am on [LinkedIn](https://www.linkedin.com/in/anastasiia-sorina-b9681686/)
 - 🔭 I’m currently working on [Portfolio-Project](https://github.com/AnastasiSo/Portfolio-Project)
 - 🌱 I’m currently learning [Python](https://github.com/AnastasiiaSorina/finalCapstone)
 
