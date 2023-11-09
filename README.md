@@ -7,9 +7,17 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🌱 I’m currently learning 
 - ⚡ Fun fact: ...
 -->
 - 😄 I am on [LinkedIn](https://www.linkedin.com/in/anastasiia-sorina-b9681686/)
-- 🔭 I’m currently working on [Portfolio-Project](https://github.com/AnastasiSo/Portfolio-Project)
-- 🌱 I’m currently learning [Python](https://github.com/AnastasiiaSorina/finalCapstone)
+- 🤩 I’s my Site Portfolio [preview](https://github.com/AnastasiSo/Portfolio-Project) [code](https://github.com/AnastasiSo/Portfolio-Project)
+- 🔭 I’m currently working on [REST API Project](https://github.com/Nortsova/dog-app-group1)
+
+- ### ⚡ These are my projects:
+- [Portfolio-Project]( https://github.com/AnastasiSo/Portfolio-Project) [preview](https://github.com/AnastasiSo/Portfolio-Project) ⏳in developing.
+- [Landing-Page](https://github.com/AnastasiiaSorina/html-css-markup)  [preview](https://sparkly-bublanina-2feada.netlify.app/)  ⏳ in developing.
+- [Python-Project](https://github.com/AnastasiiaSorina/finalCapstone)
+- [JS-Challenge](https://github.com/AnastasiiaSorina/JS-Challenge-Cards)
+- [HTML-CSS-JS-Python](https://github.com/AnastasiiaSorina/My-Portfolio)
 
